@@ -2,6 +2,8 @@
 
 A machine learning web application that predicts whether an individual's annual income exceeds $50,000 based on census data.
 
+![Dashboard Preview](screenshots/dashboard.png)
+
 ## 🌟 Overview
 
 This project uses various classification algorithms (Random Forest, Logistic Regression, Decision Tree, XGBoost) to analyze demographic and employment data. It features a modern, responsive web interface built with **Flask** and **Bootstrap 5**.
@@ -12,6 +14,16 @@ This project uses various classification algorithms (Random Forest, Logistic Reg
 *   **Interactive UI**: Clean, glassmorphism-inspired design with real-time feedback.
 *   **Comprehensive Inputs**: Considers age, education, occupation, capital gain/loss, and more.
 *   **Robust Backend**: Powered by Python, Scikit-Learn, and Flask.
+
+## 📸 Screenshots
+
+### Prediction Form
+![Prediction Form](screenshots/form.png)
+*User-friendly input form with floating labels and validation.*
+
+### Prediction Result
+![Prediction Result](screenshots/result.png)
+*Clear visual feedback for income classification.*
 
 ## 🛠️ Tech Stack
 
